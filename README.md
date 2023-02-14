@@ -5,7 +5,7 @@
 
 ![Bruno Moura GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoMouraDev&show_icons=true&theme=onedark)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias em Uso
 
 <div style="display: inlione_block"><br/>
     <img align="center" alt"Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
