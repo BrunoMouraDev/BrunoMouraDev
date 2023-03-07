@@ -11,6 +11,7 @@
 ## 🚀 Statistics:
 
  ![Bruno Moura GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoMouraDev&show_icons=true&theme=tokyonight)<br/>
+ <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMouraDev&layout=compact&langs_count=7&theme=tokyonight"/>
  
 ## Tecnologias em Uso
 
