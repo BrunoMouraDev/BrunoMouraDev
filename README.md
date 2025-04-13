@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=header"/>
 
 ## 👨🏻‍💻 Hey, World!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Bruno+Moura.;Tenho+23+Anos;Moro+em+Sorocaba-SP.;E+sou+Estudante+de+Rede+de+Computadores.;Sejam+Bem-vindos!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Bruno+Moura.;Tenho+24+Anos;Moro+em+Sorocaba-SP.;E+sou+Estudante+de+Rede+de+Computadores.;Sejam+Bem-vindos!)](https://git.io/typing-svg)
 
 ## 🧑🏽‍💻 Think out of the box!
 <div style="display: inline_block" align="justify">
